@@ -1,4 +1,4 @@
 package BankManagmentSystem;
 
-public class Employeezid {
+public class EmployeeZiad {
 }
